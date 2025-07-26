@@ -1,6 +1,7 @@
-package com.example.template.forge;
+package com.copicraftDev.template.forge;
 
-import com.example.template.TemplateModCommon;
+import com.copicraftDev.template.TemplateModCommon;
+
 import net.minecraftforge.fml.common.Mod;
 
 @Mod("template")

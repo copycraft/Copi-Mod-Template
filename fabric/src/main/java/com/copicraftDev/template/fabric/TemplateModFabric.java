@@ -1,7 +1,8 @@
-package com.example.template.fabric;
+package com.copicraftDev.template.fabric;
 
+import com.copicraftDev.template.TemplateModCommon;
 import net.fabricmc.api.ModInitializer;
-import com.example.template.TemplateModCommon;
+
 
 public class TemplateModFabric implements ModInitializer {
 	@Override

@@ -3,18 +3,18 @@
   "id": "${id}",
   "version": "${version}",
   "name": "${name}",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "This is an example mod by Copicraft!",
   "authors": [
     "Me!"
   ],
   "contact": {
   },
-  "license": "CC0-1.0",
+  "license": "ARR",
   "icon": "assets/${id}/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.template.fabric.TemplateModFabric"
+      "com.copicraftDev.template.fabric.TemplateModFabric"
     ]
   },
   "mixins": [

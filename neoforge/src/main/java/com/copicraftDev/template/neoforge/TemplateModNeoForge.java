@@ -1,6 +1,6 @@
-package com.example.template.neoforge;
+package com.copicraftDev.template.neoforge;
 
-import com.example.template.TemplateModCommon;
+import com.copicraftDev.template.TemplateModCommon;
 import net.neoforged.fml.common.Mod;
 
 @Mod("template")

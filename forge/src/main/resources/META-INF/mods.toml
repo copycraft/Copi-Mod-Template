@@ -1,13 +1,13 @@
 modLoader = "javafml"
 loaderVersion = "*"
-license = "CC0-1.0"
+license = "ARR"
 
 [[mods]]
 modId = "${id}"
 version = "${version}"
 displayName = "${name}"
-authors = "Me"
-description = "This is an example description! Tell everyone what your mod is about!"
+authors = "CopicraftDev"
+description = "This is an example Mod made by copicraft! I will use this as a template to my mods."
 logoFile = "assets/${id}/icon.png"
 logoBlur = false
 
